@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Hard to Love",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2026-02-15T15:10:22.079801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard To Love",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/01_Hard_To_Love_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hard To Love",
+      "artist": "H.E.R.",
+      "has_synced": true,
+      "path": "select/02_Hard_To_Love_H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hard to Love (feat. Jessie Reyez)",
+      "artist": "Calvin Harris feat. Jessie Reyez & Funk Wav",
+      "has_synced": true,
+      "path": "select/03_Hard_to_Love_(feat._Jessie_Reyez)_Calvin_Harris_feat._Jessie_Reyez_&_Funk_Wav.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hard To Love (Feat. Jessie Reyez)",
+      "artist": "Calvin Harris",
+      "has_synced": true,
+      "path": "select/04_Hard_To_Love_(Feat._Jessie_Reyez)_Calvin_Harris.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hard to Love You",
+      "artist": "The Wreckers",
+      "has_synced": true,
+      "path": "select/05_Hard_to_Love_You_The_Wreckers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Why Do You Have To Be So Hard To Love",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/06_Why_Do_You_Have_To_Be_So_Hard_To_Love_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hard to Love",
+      "artist": "Kacy Hill",
+      "has_synced": true,
+      "path": "select/07_Hard_to_Love_Kacy_Hill.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hard To Love",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/08_Hard_To_Love_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hard To Love",
+      "artist": "Calvin Harris Feat. Jessie Reyez",
+      "has_synced": true,
+      "path": "select/09_Hard_To_Love_Calvin_Harris_Feat._Jessie_Reyez.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Make It Hard To Love You",
+      "artist": "Becky Hill",
+      "has_synced": true,
+      "path": "select/10_Make_It_Hard_To_Love_You_Becky_Hill.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Make It Hard To Love You",
+      "artist": "Becky Hill",
+      "has_synced": false,
+      "path": "select/11_Make_It_Hard_To_Love_You_Becky_Hill.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's Not Hard To Love You",
+      "artist": "Al Jarreau",
+      "has_synced": false,
+      "path": "select/12_It's_Not_Hard_To_Love_You_Al_Jarreau.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "02 - It's Not Hard To Love You",
+      "artist": "Al Jarreau",
+      "has_synced": false,
+      "path": "select/13_02_-_It's_Not_Hard_To_Love_You_Al_Jarreau.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hard To LøVë",
+      "artist": "Aaron Carter",
+      "has_synced": true,
+      "path": "select/14_Hard_To_LøVë_Aaron_Carter.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hard To Love",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/15_Hard_To_Love_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hard To Love",
+      "artist": "Kacy Hill",
+      "has_synced": false,
+      "path": "select/16_Hard_To_Love_Kacy_Hill.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hard to Love (Alex Preston Remix)",
+      "artist": "Matthew Koma",
+      "has_synced": false,
+      "path": "select/17_Hard_to_Love_(Alex_Preston_Remix)_Matthew_Koma.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hard to Love",
+      "artist": "The Drums",
+      "has_synced": false,
+      "path": "select/18_Hard_to_Love_The_Drums.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hard to Love",
+      "artist": "Harem Scarem",
+      "has_synced": false,
+      "path": "select/19_Hard_to_Love_Harem_Scarem.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hard to Love",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Hard_to_Love_BLACKPINK.txt"
+    }
+  ]
+}
